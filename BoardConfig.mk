@@ -1,4 +1,5 @@
-BOARD_VENDOR := htc
+# chargeled already defined in android/device/htc/jewel
+# BOARD_VENDOR := htc
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true
